@@ -1,6 +1,6 @@
-### MyAttemptAtDisney ###
-   ===================
-This repository will just be for recreating Disney libraries!
+MyAttemptAtDisney
+=================
+MyAttemptAtDisney is a project about recreating Disney libraries. This is mainly for custom OTP servers, but can be used for Astron too!
 
 ### Requirements ###
 - Panda3D version 1.8+
