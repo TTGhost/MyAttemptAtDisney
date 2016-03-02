@@ -4,7 +4,7 @@ class DNAWindows:
     def __init__(self):
         self.code = None
         self.color = None
-        count = None
+        self.count = None
         
 
     def getCode(self):
