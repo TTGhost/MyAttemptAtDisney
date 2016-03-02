@@ -9,7 +9,7 @@ class SeaPatchNode(NodePath):
         self.wantNormal = False
         self.wantReflect = False
         self.wantUv = False
-        self.wantZ = 0
+        self.wantZ = False
         self.ZOffset = 0
 
     def collectGeometry(self):
